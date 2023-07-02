@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="listButton" type="id" />
+    <item name="inputButton" type="id" />
+    <item name="nombreEditText" type="id" />
+    <item name="apellidoEditText" type="id" />
+    <item name="futbolistasListView" type="id" />
+</resources>
